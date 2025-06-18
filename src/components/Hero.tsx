@@ -140,7 +140,7 @@ const Hero = () => {
                 { Icon: Phone, href: 'tel:+2348055188240', label: 'Phone' },
                 { Icon: Phone, href: 'https://wa.link/rpgpvi', label: 'WhatsApp' },
                 { Icon: Github, href: 'https://github.com/Peterawosanya', label: 'GitHub' },
-                { Icon: FileText, href: 'peter-sanya-resume.pdf', label: 'Download resume', download: true },
+                { Icon: FileText, href: 'my resume.pdf', label: 'Download resume', download: true },
               ].map(({ Icon, href, label, download }, index) => (
                 <motion.a
                   key={index}
