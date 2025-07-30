@@ -97,7 +97,7 @@ const Contact = () => {
             </div>
             <div className="flex flex-col md:flex-row items-center gap-4">
               <a
-                href="my resume.pdf"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium text-center transition-colors"
@@ -105,7 +105,7 @@ const Contact = () => {
                 View Resume
               </a>
               <a
-                href="my resume.pdf"
+                href=""
                 download
                 className="px-6 py-3 bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 text-gray-900 dark:text-white rounded-lg font-medium text-center transition-colors"
               >
