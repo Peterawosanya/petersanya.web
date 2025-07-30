@@ -143,7 +143,7 @@ const About = () => {
                   <span className="text-white font-bold text-lg">1</span>
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 shadow-lg">
-                  <h4 className="text-lg font-semibold text-white mb-1">Eddysoft</h4>
+                  <h4 className="text-lg font-semibold text-white mb-1">Vision X</h4>
                   <span className="text-blue-400 text-sm font-medium mb-2 block">Intern</span>
                   <p className="text-gray-300 text-sm">Gained hands-on experience in frontend development, collaborating with a team and learning industry best practices.</p>
                 </div>
