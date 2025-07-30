@@ -63,7 +63,7 @@ const About = () => {
                 className="relative w-full h-full rounded-2xl overflow-hidden transform -rotate-3 transition-transform duration-300 shadow-xl"
               >
                 <img
-                  src="/pete 1.jpg"
+                  src="/pete 2.jpg"
                   alt="About me"
                   className="w-full h-full object-cover"
                 />
