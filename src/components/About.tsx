@@ -160,7 +160,7 @@ const About = () => {
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 shadow-lg">
                   <h4 className="text-lg font-semibold text-white mb-1">Mala Africa</h4>
-                  <span className="text-blue-400 text-sm font-medium mb-2 block">Senior Frontend Developer</span>
+                  <span className="text-blue-400 text-sm font-medium mb-2 block"> Frontend Developer</span>
                   <p className="text-gray-300 text-sm">Led frontend projects, mentored junior developers, and delivered high-quality user interfaces for clients across Africa.</p>
                 </div>
               </motion.div>
